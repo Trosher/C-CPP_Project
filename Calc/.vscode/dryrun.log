@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/zenaluth/C7_SmartCalc_v1.0-0/src'
+make: Leaving directory `/Users/zenaluth/C7_SmartCalc_v1.0-0/src'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
